@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 'f0efaba02e1ea57687f2fafe9cd98c3bbaa5f8e1'
+AESD_ASSIGNMENTS_VERSION = '78c4dfb113c9c4032b6e1218754e3e4e5ab9396b'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-jpderuiterdemeijer.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
